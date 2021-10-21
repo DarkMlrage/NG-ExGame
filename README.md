@@ -5,6 +5,6 @@
 
 Якщо гра не запускається просимо скачати GodotMono
 https://godotengine.org/download/windows
-(импорт game.zip-> project.godot
+(импорт game.zip-> project.godot)
 
 Пересування мишкою.
